@@ -37,7 +37,7 @@ func main() {
 
 
 
-	content := "江泽民xxxx习近平"
+	content := "自己试试，保命要紧"
 	aho := ac.CreateAhoCorasick()
 
 	for _,str := range list{
